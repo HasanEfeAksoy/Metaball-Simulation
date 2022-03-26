@@ -1,2 +1,2 @@
 # Metaball-Simulation
-Basic Metaballsimulation with c++
+Basic SFML Metaball simulation with c++
